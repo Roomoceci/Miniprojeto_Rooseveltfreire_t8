@@ -31,4 +31,9 @@ Diferenciando as Entidades para Evitar Confusões:
  Explicação de 2 Resultados Obtidos:
    Média 1,15: O valor médio de aproximadamente 1,15 indica que, na média geral da base de clientes ativos, cada cadastro possui entre 1 e 2 dependentes familiares associados. Isso sugere que o público-alvo principal do varejo possui famílias de pequeno a médio porte.
   
-   Mínimo 0 e Máximo 4: O valor mínimo mostra a presença de clientes com perfil individual (sem filhos/dependentes registrados na base), enquanto o limite superior máximo é de até 4 dependentes por núcleo familiar nesta amostra, indicando um teto claro nos registros de segmentação da empresa.
+   Mínimo 0 e Máximo 4: O valor mínimo mostra a presença de clientes com perfil individual (sem filhos/dependentes registrados na base), enquanto o limite superior máximo é de até 4 dependentes por núcleo familiar nesta amostra.
+
+   
+   Tambem  foi  verificado  a quantidade  de pedidos de  um mesmo produto  por cliente , compras repetidas: 189721  considerando cer um numero bem  relevante .
+
+   Tambem foi verificado  quantas  vezes o cliente realizou o mesmo pedio  os top 10  realizaram 13 pedidos do mesmo produto em diveças categorias .
